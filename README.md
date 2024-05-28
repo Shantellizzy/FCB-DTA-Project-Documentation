@@ -18,6 +18,6 @@ SELECT * FROM TABLE 1
 WHERE CONDITION = MET
 
 ```
-![](
+![](1000046763.jpg)
 
 
