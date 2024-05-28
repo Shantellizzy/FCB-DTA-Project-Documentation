@@ -20,4 +20,10 @@ WHERE CONDITION = MET
 ```
 ![](1000046763.jpg)
 
+| NAME  | SEX | AGE | MARITAL STATUS |
+| ---- | ---- | ---- | ------- |
+| KEMI  | FEMALE | 28 | SINGLE |
+|FOLUSHO | MALE | 29 | MARRIED |
+| TUBOSUN | MALE | 30 | SINGLE |
+
 
